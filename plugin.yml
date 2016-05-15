@@ -1,0 +1,7 @@
+name: BowHearts
+description: Simple Plugin give health of person you hit with arrow
+author: BalAnce
+version: 0.1
+main: bh\main
+api: 1.12.0
+ 
